@@ -52,4 +52,17 @@ The Jupyter notebook is organized for easy navigation and consistent branding us
 
 ### 2. Staff Capacity & Workload
 - **Decline in Doctors**: A 1.91% reduction in doctor numbers over seven months, increasing workload pressures.
-- **Regional Disparities**: Significant differences in appointments per doctor by region (
+- **Regional Disparities**: Significant differences in appointments per doctor by region (up to 169 per month), highlighting an uneven distribution of staff resources.
+
+### 3. Missed Appointments
+- **Missed Appointment Trends**: Increase in missed appointments, especially for those scheduled more than 28 days in advance.
+- **Same-day Appointments**: Show lowest missed appointment rates (<2%), suggesting that reducing booking lead time may improve attendance rates.
+
+## Future Recommendations
+To optimize NHS resources and improve efficiency:
+- **Explore Staffing and Resource Allocation**: Consider reassigning staff based on appointment volumes and regional demand.
+- **Address Overcapacity**: Implement strategies to manage high appointment volumes on weekdays.
+- **Improve Appointment Attendance**: Offer same-day or short-notice appointment slots to reduce missed appointments.
+- **Incorporate Population Density Data**: Assess regional appointment needs relative to population for targeted resource planning.
+
+This README provides an overview of the methodology, analyses, and insights. Refer to the notebook for detailed visualizations, code, and further recommendations.
